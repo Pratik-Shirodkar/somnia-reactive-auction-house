@@ -1,0 +1,21 @@
+{
+  "name": "reactive-auction-house",
+  "version": "1.0.0",
+  "description": "Reactive Dutch & English Auction House built on Somnia with Native On-chain Reactivity",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.ts --network somniaTestnet",
+    "setup-reactivity": "hardhat run scripts/setup-subscriptions.ts --network somniaTestnet"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0"
+  },
+  "dependencies": {
+    "@somnia-chain/reactivity": "latest",
+    "@somnia-chain/reactivity-contracts": "latest",
+    "dotenv": "^16.4.0",
+    "viem": "^2.21.0"
+  }
+}
