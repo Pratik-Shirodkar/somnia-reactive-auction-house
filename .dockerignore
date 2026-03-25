@@ -1,0 +1,10 @@
+node_modules
+.git
+.gemini
+frontend/node_modules
+frontend/dist
+artifacts
+cache
+typechain-types
+coverage
+*.log
