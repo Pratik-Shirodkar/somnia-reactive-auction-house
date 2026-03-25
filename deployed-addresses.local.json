@@ -1,7 +1,0 @@
-{
-  "ReactiveAuction": "0x8A791620dd6260079BF849Dc5567aDC3F2FdC318",
-  "AuctionHandler": "0x610178dA211FEF7D417bC0e6FeD39F05609AD788",
-  "chainId": 31337,
-  "rpc": "http://127.0.0.1:8545",
-  "deployedAt": "2026-03-25T14:24:36.322Z"
-}
