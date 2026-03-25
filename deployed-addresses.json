@@ -1,0 +1,8 @@
+{
+  "ReactiveAuction": "0x136D7081b7A98996B841f6BD72093491ff8964Ae",
+  "AuctionHandler": "0xdda32E6AEd981881C8c671e763Ff916C69d9600F",
+  "chainId": 50312,
+  "rpc": "https://dream-rpc.somnia.network/",
+  "explorer": "https://shannon-explorer.somnia.network/",
+  "deployedAt": "2026-03-25T08:40:04.547Z"
+}

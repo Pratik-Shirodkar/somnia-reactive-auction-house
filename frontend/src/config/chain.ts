@@ -15,8 +15,8 @@ export const somniaTestnet = defineChain({
 
 // Contract addresses — update after deployment
 export const CONTRACTS = {
-  ReactiveAuction: '0x0000000000000000000000000000000000000000', // UPDATE AFTER DEPLOY
-  AuctionHandler: '0x0000000000000000000000000000000000000000',  // UPDATE AFTER DEPLOY
+  AUCTION_HOUSE: '0x136D7081b7A98996B841f6BD72093491ff8964Ae' as `0x${string}`,
+  HANDLER: '0xdda32E6AEd981881C8c671e763Ff916C69d9600F' as `0x${string}`,
 };
 
 export function getPublicClient() {
